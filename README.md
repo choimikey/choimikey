@@ -4,7 +4,7 @@
 <div>
   <p>
     
-  ![Profile Views](https://komarev.com/ghpvc/?username=choimikey&color=3b2682)
+  ![Profile Views](https://komarev.com/ghpvc/?username=choimikey&color=3b2682&style=plastic)
   </p>
 </div>
 
