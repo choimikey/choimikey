@@ -17,6 +17,7 @@
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choimikey&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 ![](https://komarev.com/ghpvc/?username=choimikey&style=plastic&color=371a70)
+![](https://komarev.com/ghpvc/?username=choimikey&style=plastic)
 
 <br><br>
 
