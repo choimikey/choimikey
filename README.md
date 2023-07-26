@@ -36,6 +36,7 @@ I’m a developer who has passion for building clean code with intuitive functio
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon%20aws)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -47,7 +48,8 @@ I’m a developer who has passion for building clean code with intuitive functio
 ![Asana](https://img.shields.io/badge/-Asana-05122A?style=flat&logo=asana)&nbsp;
 ![PyPI](https://img.shields.io/badge/-PyPI-05122A?style=flat&logo=pypi)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon%20aws)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
+![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
