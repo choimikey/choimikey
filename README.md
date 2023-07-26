@@ -1,8 +1,9 @@
 <h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">Hi there.  I'm Michael Choi</h1>
 </div>
 
-
+<div>
 ![](https://komarev.com/ghpvc/?username=choimikey&color=3b2682)&nbsp;
+</div>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
