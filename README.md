@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">. I'm Michael Choi</h1>
+<h4 align="center">A full stack developer</h4>
+</div>
 
 <!--
 **choimikey/choimikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
