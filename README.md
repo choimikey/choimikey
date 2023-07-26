@@ -1,4 +1,4 @@
-<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">Hi there.  I'm Michael Choi and I'm a Software Engineer.</h1>
+<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">Hi there!  I'm Michael Choi and I'm a Software Engineer.</h1>
 </div>
 
 <div>
