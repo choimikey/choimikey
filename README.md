@@ -3,7 +3,8 @@
 
 <div>
   <p>
-![](&https://komarev.com/ghpvc/?username=choimikey&color=3b2682)&nbsp;
+    
+  ![Profile Views](https://komarev.com/ghpvc/?username=choimikey&color=3b2682)
   </p>
 </div>
 
