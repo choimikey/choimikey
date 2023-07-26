@@ -39,6 +39,15 @@ I’m a developer who has passion for building clean code with intuitive functio
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
+![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=Microsoft%20Excel)&nbsp;
+![Hootsuite](https://img.shields.io/badge/-Hootsuite-05122A?style=flat&logo=Hootsuite)&nbsp;
+![Katana](https://img.shields.io/badge/-Katana-05122A?style=flat&logo=katana)&nbsp;
+![Asana](https://img.shields.io/badge/-Asana-05122A?style=flat&logo=asana)&nbsp;
+![PyPI](https://img.shields.io/badge/-PyPI-05122A?style=flat&logo=pypi)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazon%20aws)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
