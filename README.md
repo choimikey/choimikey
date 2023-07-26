@@ -16,7 +16,7 @@
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=choimikey&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choimikey&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
-![](https://komarev.com/ghpvc/?username=choimikey&color=371a70&style=plastic)
+![](https://komarev.com/ghpvc/?username=choimikey&style=plastic&color=371a70)
 
 <br><br>
 
