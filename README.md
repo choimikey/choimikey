@@ -2,6 +2,8 @@
 </div>
 
 
+![](https://komarev.com/ghpvc/?username=choimikey&color=3b2682)&nbsp;
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
