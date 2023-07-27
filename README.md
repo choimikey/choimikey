@@ -18,7 +18,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -58,8 +58,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<br><br>
+<br>
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
@@ -67,7 +66,7 @@
 
 I’m a developer who has passion for building clean code with intuitive functionality. I am addicted to the feeling of feeling accomplished. I fuel that addiction by solving problems. I enjoy turning ideas into reality using creative solutions by taking into account time complexity. I have an extreme interest in anything I do not understand at first glance. Therefore, learning new skills, tools, and concepts excite me. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 
-<br>
+<br><br>
 
 
 <h1 align="center"></h1>
