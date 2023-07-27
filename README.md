@@ -66,7 +66,7 @@
 
 I’m a developer who has passion for building clean code with intuitive functionality. I am addicted to the feeling of feeling accomplished. I fuel that addiction by solving problems. I enjoy turning ideas into reality using creative solutions by taking into account time complexity. I have an extreme interest in anything I do not understand at first glance. Therefore, learning new skills, tools, and concepts excite me. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 
-<br><br>
+<br>
 
 
 <h1 align="center"></h1>
